@@ -1,6 +1,7 @@
 body {
   background-color: Silver;
   color: Yellow;
+  text-align: center;
 }
 h1 {
   color: Yellow;
@@ -10,4 +11,9 @@ h1 {
 
 table, th, td {
   border: 2px Yellow;
+}
+
+td, th {
+  padding 10px;
+  text-align: center;
 }
