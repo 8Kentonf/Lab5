@@ -1,5 +1,5 @@
 body {
-  background-color: Silver;
+  background-color: Black;
   color: Yellow;
   text-align: center;
 }
@@ -20,4 +20,11 @@ td, th {
 
 table {
   align: center;
+}
+
+earth, mars, jupiter, saturn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
 }
