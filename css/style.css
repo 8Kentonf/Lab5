@@ -12,11 +12,3 @@ table, th, td {
   color: Yellow;
   border: 2px Yellow;
 }
-
-table {
-  width 100%;
-}
-
-th {
-  height: 100px;
-}
