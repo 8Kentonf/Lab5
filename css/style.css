@@ -7,3 +7,8 @@ h1 {
   text-align: center;
   font-weight: bold;
 }
+
+table, th, td {
+  color: Yellow;
+  border: 2px Yellow;
+}
